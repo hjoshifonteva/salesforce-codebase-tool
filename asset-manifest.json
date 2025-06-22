@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salesforce-codebase-tool/static/css/main.58a85f6d.css",
+    "main.js": "/salesforce-codebase-tool/static/js/main.04d21a34.js",
+    "static/js/453.df83b5cf.chunk.js": "/salesforce-codebase-tool/static/js/453.df83b5cf.chunk.js",
+    "index.html": "/salesforce-codebase-tool/index.html",
+    "main.58a85f6d.css.map": "/salesforce-codebase-tool/static/css/main.58a85f6d.css.map",
+    "main.04d21a34.js.map": "/salesforce-codebase-tool/static/js/main.04d21a34.js.map",
+    "453.df83b5cf.chunk.js.map": "/salesforce-codebase-tool/static/js/453.df83b5cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a85f6d.css",
+    "static/js/main.04d21a34.js"
+  ]
+}
